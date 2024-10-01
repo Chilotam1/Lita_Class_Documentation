@@ -1,2 +1,11 @@
 # Lita_Class_Documentation
-This is where I documented my first project while learning Data Analysis with the Incubator Hub
+
+### Project Title: Sales
+
+[Project Overview](project-overview)
+
+Data Sources
+
+### Project Overview
+This project is about the sales of product by Ajosor Services for the duration of 5 months.
+
